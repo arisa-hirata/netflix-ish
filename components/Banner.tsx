@@ -1,6 +1,6 @@
 import { InformationCircleIcon } from '@heroicons/react/outline'
 import { useEffect, useState } from 'react'
-import { baseUrl } from '../constsnts/movie'
+import { baseUrl } from '../constants/movie'
 import { Movie } from '../types'
 import { FaPlay } from "react-icons/fa";
 import Image from 'next/image'
@@ -18,8 +18,6 @@ function Banner({ netflixOriginals }: Props) {
     )
   }, [netflixOriginals])
 
-  console.log(movie);
-
   return (
     <div className="flex flex-col space-y-2 py-16 md:space-y-4 lg:h-[65vh] lg:justify-end lg:pb-12">
       <div className="absolute top-0 left-0 -z-10 h-[95vh] w-screen">
@@ -27,7 +25,7 @@ function Banner({ netflixOriginals }: Props) {
           src={`${baseUrl}${movie?.backdrop_path || movie?.poster_path}`}
           layout="fill"
           objectFit="cover"
-          alt=""
+          alt={`${movie?.title}`}
         />
       </div>
         <h1 className="text-2xl md:text-4xl lg:text-7x lg:text-7xl">

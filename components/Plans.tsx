@@ -1,19 +1,19 @@
 import { CheckIcon } from '@heroicons/react/outline'
 import { Product } from '@stripe/firestore-stripe-payments'
-// import { Product } from '@stripe/firestore-stripe-payments'
 import Head from 'next/head'
 import Link from 'next/link'
 import { useState } from 'react'
 import useAuth from '../hooks/useAuth'
-// import { loadCheckout } from '../lib/stripe'
-// import Table from './Table'
+import { loadCheckout } from '../lib/stripe'
+import Table from './Table'
 // import Loader from './Loader'
 
 interface Props {
   products: Product[]
+  selectedPlan: Product | null
 }
 
-function Plans({ products }: Props) {
+function Plans({ products, selectedPlan }: Props) {
   const { logout, user } = useAuth()
 
   return (
@@ -63,6 +63,9 @@ function Plans({ products }: Props) {
           <div className="flex w-full items-center justify-end self-end md:w-3/5">
             {products.map((product) => (
               <div
+                className={`planBox ${
+                  selectedPlan?.id === product.id ? 'opacity-100' : 'opacity-60'
+                }`}
                 key={product.id}
               >
                 {product.name}
@@ -70,8 +73,7 @@ function Plans({ products }: Props) {
             ))}
           </div>
 
-          {/* <Table products={products} selectedPlan={selectedPlan} /> */}
-
+          <Table products={products} selectedPlan={selectedPlan} />
         </div>
       </main>
     </div>

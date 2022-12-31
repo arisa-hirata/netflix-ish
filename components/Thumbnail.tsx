@@ -4,9 +4,7 @@ import { modalState, movieState } from '../atoms/modalAtom'
 import { Movie } from "../types"
 
 interface Props {
-  movie: Movie
-  // When using firebase
-  // movie: Movie | DocumentData
+  movie: Movie | DocumentData
 }
 
 function Thumbnail({ movie }: Props) {

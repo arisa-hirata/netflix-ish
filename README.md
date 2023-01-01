@@ -11,15 +11,12 @@ You can create your own account, choose subscription, watch moview preview, and 
 <img src="https://user-images.githubusercontent.com/32582917/210185589-5cd7e9e6-fc07-4dac-ad5a-396f31b5888b.png" width="700"/>
 
 ## Select a subscription plan
-<img src="https://user-images.githubusercontent.com/32582917/210185589-5cd7e9e6-fc07-4dac-ad5a-396f31b5888b.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/32582917/210186443-bf21a941-b098-4e75-a01c-6b75271477e8.png" width="700"/>
 
 ## Stripe payment
 <img src="https://user-images.githubusercontent.com/32582917/210185701-a1a81d94-083c-4be4-a1dc-63449a65bc17.png" width="700"/>
 Don't worry, this is a test-mode. It won't be charged :)
 You can also use <br/>
-[Google](https://www.google.co.jp/)<br />
-[DEMO](https://stripe.com/docs/testing)<br />
-[THIS](https://stripe.com/docs/testing)<br/>
 [Testing | Stripe Documentation](https://stripe.com/docs/testing)
 
 ## Watch a movie preview and add to list

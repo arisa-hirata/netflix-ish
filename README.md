@@ -1,7 +1,7 @@
 # Netflix-ish
 
 This is a clone website of Neteflix developed by NextJS, TypeScript, and TailwindCSS.
-You can create your own account, choose subscription, watch moview preview, and create your own movie list.
+You can create your own account, choose subscription, watch moview preview, and create your own movie list.<br />
 [DEMO](https://netflix-k830467yh-arisa-hirata.vercel.app/)<br />
 
 

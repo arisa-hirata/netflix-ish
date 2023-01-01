@@ -22,7 +22,7 @@ You can use [Testing | Stripe Documentation](https://stripe.com/docs/testing)
 <img src="https://user-images.githubusercontent.com/32582917/210186168-c66dd8bc-d4b5-4654-8777-8e13a32fc399.gif" width="700"/>
 
 ## Update and cancel subscription plan
-<img src="https://user-images.githubusercontent.com/32582917/210186263-2a941f8e-bb2a-41a3-ae2b-65fdba2bc1f1.gif)" width="700"/>
+<img src="https://user-images.githubusercontent.com/32582917/210186461-2f5fdbf9-b4a4-44a8-86a9-ecfe456c0e92.gif" width="700"/>
 
 ## Includes the following Technologies:
 

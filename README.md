@@ -16,8 +16,7 @@ You can create your own account, choose subscription, watch moview preview, and 
 ## Stripe payment
 <img src="https://user-images.githubusercontent.com/32582917/210185701-a1a81d94-083c-4be4-a1dc-63449a65bc17.png" width="700"/>
 Don't worry, this is a test-mode. It won't be charged :)
-You can also use <br/>
-[Testing | Stripe Documentation](https://stripe.com/docs/testing)
+You can use [Testing | Stripe Documentation](https://stripe.com/docs/testing)
 
 ## Watch a movie preview and add to list
 <img src="https://user-images.githubusercontent.com/32582917/210186168-c66dd8bc-d4b5-4654-8777-8e13a32fc399.gif" width="700"/>

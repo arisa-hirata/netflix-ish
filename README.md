@@ -3,7 +3,7 @@
 This is a clone website of Neteflix developed by NextJS, TypeScript, and TailwindCSS.
 You can create your own account, choose subscription, watch moview preview, and create your own movie list.<br />
 [DEMO](https://netflix-k830467yh-arisa-hirata.vercel.app/)<br />
-<img src="https://user-images.githubusercontent.com/32582917/210184108-f29f6759-479e-4c46-88d8-6215a395e8cf.gif" width="350"/>
+<img src="https://user-images.githubusercontent.com/32582917/210184108-f29f6759-479e-4c46-88d8-6215a395e8cf.gif" width="500"/>
 <br>
 
 

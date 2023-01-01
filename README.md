@@ -30,7 +30,7 @@ You can also use [Testing | Stripe Documentation](https://stripe.com/docs/testin
 - NextJS
 - TypeScript
 - TailwindCSS
-- API: [TMDB]([https://openweathermap.org/](https://www.themoviedb.org/?language=en-CA))
+- API: [TMDB](https://www.themoviedb.org/?language=en-CA)
 - State managiment: Recoil
 - Auth: firebase
 - Payment: Stripe

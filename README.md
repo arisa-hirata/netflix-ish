@@ -7,6 +7,22 @@ You can create your own account, choose subscription, watch moview preview, and 
 <br>
 
 
+
+## Includes the following Technologies:
+
+- NextJS
+- TypeScript
+- TailwindCSS
+- API: [TMDB]([https://openweathermap.org/](https://www.themoviedb.org/?language=en-CA))
+- State managiment: Recoil
+- Auth: firebase
+- Payment: Stripe
+
+
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).

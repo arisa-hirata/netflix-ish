@@ -17,6 +17,7 @@ You can create your own account, choose subscription, watch moview preview, and 
 <img src="https://user-images.githubusercontent.com/32582917/210185701-a1a81d94-083c-4be4-a1dc-63449a65bc17.png" width="700"/>
 Don't worry, this is a test-mode. It won't be charged :)
 You can also use <br/>
+[Google](https://www.google.co.jp/)<br />
 [DEMO](https://stripe.com/docs/testing)<br />
 [THIS](https://stripe.com/docs/testing)<br/>
 [Testing | Stripe Documentation](https://stripe.com/docs/testing)

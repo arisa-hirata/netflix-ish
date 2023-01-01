@@ -1,3 +1,10 @@
+# Netflix-ish
+
+This is a clone website of Neteflix developed by NextJS, TypeScript, and TailwindCSS.
+You can create your own account, choose subscription, watch moview preview, and create your own movie list.
+[DEMO](https://netflix-k830467yh-arisa-hirata.vercel.app/)<br />
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).

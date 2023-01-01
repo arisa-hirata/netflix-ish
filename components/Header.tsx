@@ -6,7 +6,6 @@ import BasicMenu from './BasicMenu'
 
 function Header() {
   const [isScrolled, setScrolled] = useState(false)
-  const { logout } = useAuth()
 
   useEffect(() => {
     const handleScroll = () => {
@@ -50,7 +49,6 @@ function Header() {
         <BellIcon className="h-6 w-6 sm:inline" />
         <Link href="/account">
         <img
-          onClick={logout}
           src="https://rb.gy/g1pwyx"
           alt="Account"
           className="cursor-pointer rounded"

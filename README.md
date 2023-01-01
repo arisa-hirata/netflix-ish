@@ -16,15 +16,14 @@ You can create your own account, choose subscription, watch moview preview, and 
 ## Stripe payment
 <img src="https://user-images.githubusercontent.com/32582917/210185701-a1a81d94-083c-4be4-a1dc-63449a65bc17.png" width="700"/>
 Don't worry, this is a test-mode. It won't be charged :)
-You can also use [test card information](https://netflix-k830467yh-arisa-hirata.vercel.app/](https://stripe.com/docs/testing) as well.
+You can also use [TESTING_CARD_INFORMATION](https://netflix-k830467yh-arisa-hirata.vercel.app/](https://stripe.com/docs/testing) as well.
 [Testing | Stripe Documentation](https://netflix-k830467yh-arisa-hirata.vercel.app/](https://stripe.com/docs/testing)
 
 ## Watch a movie preview and add to list
 <img src="https://user-images.githubusercontent.com/32582917/210186168-c66dd8bc-d4b5-4654-8777-8e13a32fc399.gif" width="700"/>
 
 ## Update and cancel subscription plan
-<img src="https://user-images.githubusercontent.com/32582917/210186263-2a941f8e-bb2a-41a3-ae2b-65fdba2bc1f1.gif
-" width="700"/>
+<img src="https://user-images.githubusercontent.com/32582917/210186263-2a941f8e-bb2a-41a3-ae2b-65fdba2bc1f1.gif)" width="700"/>
 
 ## Includes the following Technologies:
 
